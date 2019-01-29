@@ -1,0 +1,42 @@
+#icon-name {
+    margin-bottom: .2em;
+    font-family: Lato, Helvetica, sans-serif;
+    text-align: left;
+    color: #777777;
+}
+
+.nav-home {
+    width: 5em;
+}
+
+/* SMARTPHONES PORTRAIT */
+
+@media only screen and (min-width: 300px) {
+    body {
+        /* background-color: #032b05; */
+    }
+}
+
+/* SMARTPHONES LANDSCAPE */
+
+@media only screen and (min-width: 480px) {
+    body {
+        /* background-color: #032b05; */
+    }
+}
+
+/* TABLETS PORTRAIT */
+
+@media only screen and (min-width: 768px) {
+    body {
+        /* background-color: #c22a71; */
+    }
+}
+
+/* TABLET LANDSCAPE / DESKTOP */
+
+@media only screen and (min-width: 1024px) {
+    body {
+        /* background-color: #032b05; */
+    }
+}
